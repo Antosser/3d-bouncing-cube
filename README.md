@@ -1,3 +1,3 @@
 
-# [3D Bouncing Cube](https://htmlpreview.github.io/?//github.com/Antosser/3d-bouncing-cube/blob/master/index.html)
+# [3D Bouncing Cube](//antosser.github.io/3d-bouncing-cube/)
 Regular cube bouncing off the ground
